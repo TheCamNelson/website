@@ -23,10 +23,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/camcnelson/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/thecamnelson',
     },

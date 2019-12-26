@@ -6,7 +6,6 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { throttle } from '@utils';
 import { navLinks, navHeight } from '@config';
 import { Menu } from '@components';
-import { IconLogo } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -248,11 +247,9 @@ class Nav extends Component {
                 <StyledLogo tabindex="-1">
                   {isHome ? (
                     <a href="/" aria-label="home">
-                      <IconLogo />
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">
-                      <IconLogo />
                     </Link>
                   )}
                 </StyledLogo>
