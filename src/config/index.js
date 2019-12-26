@@ -1,18 +1,18 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Cameron Nelson',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    '',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Cameron Nelson, Cam Nelson, Cam, Nelson, Cameron, thecamnelson, waterloo, mechatronics engineer, software engineer',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Cameron Nelson',
+  location: 'Toronto, Canada',
+  email: 'ccnelson@edu.uwaterloo.ca',
+  github: 'https://github.com/thecamnelson',
+  twitterHandle: '@thecamnelson',
   socialMedia: [
     {
       name: 'GitHub',
